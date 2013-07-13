@@ -197,8 +197,8 @@
 	
 	$.fn.raty.defaults = {
 		cancelHint:		'cancel this rating!',
-		cancelOff:		'cancel-off.png',
-		cancelOn:		'cancel-on.png',
+		cancelOff:		'http://noxdo-blogspot-com.googlecode.com/svn/trunk/rate/img/cancel-off.png',
+		cancelOn:		'http://noxdo-blogspot-com.googlecode.com/svn/trunk/rate/img/cancel-on.png',
 		cancelPlace:	'left',
 		hintList:		['bad', 'poor', 'regular', 'good', 'gorgeous'],
 		number:			5,
@@ -207,10 +207,10 @@
 		scoreName:		'score',
 		showCancel:		false,
 		showHalf:		false,
-		starHalf:		'star-half.png',
+		starHalf:		'http://noxdo-blogspot-com.googlecode.com/svn/trunk/rate/img/star-half.png',
 		start:			0,
-		starOff:		'star-off.png',
-		starOn:			'star-on.png'
+		starOff:		'http://noxdo-blogspot-com.googlecode.com/svn/trunk/rate/img/star-off.png',
+		starOn:			'http://noxdo-blogspot-com.googlecode.com/svn/trunk/rate/img/star-on.png'
 		//onClick:		function() { alert('clicked!'); }
 	};
 
