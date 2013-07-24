@@ -219,7 +219,7 @@
   color: black !important;
 }
 .syntaxhighlighter {
-  background-color: #121212 !important;
+  background: none repeat scroll 0% 0% rgb(251, 251, 251) !important;
 }
 .syntaxhighlighter .line.alt1 {
   background-color: #121212 !important;
