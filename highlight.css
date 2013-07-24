@@ -185,8 +185,8 @@
   color: blue !important;
 }
 .syntaxhighlighter.printing .keyword {
-  color: #006699 !important;
-  font-weight: bold !important;
+  color: #8959a8 !important;
+  font-weight: normal !important;
 }
 .syntaxhighlighter.printing .preprocessor {
   color: gray !important;
@@ -284,7 +284,7 @@
   color: blue !important;
 }
 .syntaxhighlighter .keyword {
-  color: #006699 !important;
+  color: #8959a8 !important;
 }
 .syntaxhighlighter .preprocessor {
   color: gray !important;
@@ -296,13 +296,13 @@
   color: #009900 !important;
 }
 .syntaxhighlighter .functions {
-  color: #ff1493 !important;
+  color: #4271ae !important;
 }
 .syntaxhighlighter .constants {
   color: #0066cc !important;
 }
 .syntaxhighlighter .script {
-  font-weight: bold !important;
+  font-weight: normal !important;
   color: #006699 !important;
   background-color: none !important;
 }
@@ -317,5 +317,5 @@
 }
 
 .syntaxhighlighter .keyword {
-  font-weight: bold !important;
+  font-weight: normal !important;
 }
