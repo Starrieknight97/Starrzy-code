@@ -219,13 +219,13 @@
   color: black !important;
 }
 .syntaxhighlighter {
-  background: none repeat scroll 0% 0% rgb(251, 251, 251) !important;
+  background: #fbfbfb;margin:3% 0 3% 0;
 }
 .syntaxhighlighter .line.alt1 {
-  background-color: #121212 !important;
+  background-color: #fbfbfb !important;
 }
 .syntaxhighlighter .line.alt2 {
-  background-color: #121212 !important;
+  background-color: #fbfbfb !important;
 }
 .syntaxhighlighter .line.highlighted.alt1, .syntaxhighlighter .line.highlighted.alt2 {
   background-color: #2c2c29 !important;
