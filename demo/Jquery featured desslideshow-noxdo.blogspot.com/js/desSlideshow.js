@@ -12,9 +12,9 @@
         var p=p||{};
 
         var autoplay=p&&p.autoplay?p.autoplay:"enable";
-        var slideshow_width=p&&p.slideshow_width?p.slideshow_width:"600";
-        var slideshow_height=p&&p.slideshow_height?p.slideshow_height:"250";
-        var thumbnail_width=p&&p.thumbnail_width?p.thumbnail_width:"200";
+        var slideshow_width=p&&p.slideshow_width?p.slideshow_width:"100%";
+        var slideshow_height=p&&p.slideshow_height?p.slideshow_height:"70%";
+        var thumbnail_width=p&&p.thumbnail_width?p.thumbnail_width:"20%";
         var time_Interval = p&&p.time_Interval?p.time_Interval:"4000";
         var directory=p&&p.directory?p.directory:"images";
         slideshow_height = parseInt(slideshow_height);
